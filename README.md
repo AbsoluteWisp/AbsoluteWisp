@@ -1,4 +1,4 @@
-Hi, I'm Ghostling225! I mainly use github to open issues in repos that I use and contribute to private projects, I rarely contribute code to public repositories.
+Hi, I'm Ghostling225! I mainly use GitHub to open issues in repos that I use and contribute to my own projects.
 
 <!---
 Ghostling225/Ghostling225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
