@@ -15,7 +15,7 @@ I plan on taking part in the GMTK 2023 jam this July and if I do, I'll make the 
 Contact
 -------
 These are the ways of contacting me, in no particular order:
-- Discord: ~~`Duch#1157`~~ `@ghostling225`
+- Discord: ~~`Duch#1157`~~ `@duszeniek`
 - E-Mail: [wojcikadam742@gmail.com](mailto:wojcikadam742@gmail.com)
 
 Other online presence
